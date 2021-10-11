@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    
+}
+
+.Contacto{
+    background-attachment: fixed; 
+    background-image: url(../assets/tbp.PNG);
+    float: right;
+    border-radius: 10px;
+    position: relative;
+  top: 400px;
+  right: 400px;
+    
+    
+}
+h2{
+    color: white;
+    font-family: sans-serif;
+    font-size: 32px;
+    font-stretch: ultra-condensed;
+}
+ul{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+}
+.nombre{
+    color: rgb(5, 5, 5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.email{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.primerp{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../assets/tbp.PNG);
+    background-attachment: fixed;
+}
+.Yo{
+    border-radius: 20px;
+    position: relative;
+    left: 400px;
+}
+
+
+
